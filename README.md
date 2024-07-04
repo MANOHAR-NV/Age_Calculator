@@ -1,7 +1,3 @@
-Certainly! Here is a sample README file for your age calculator project:
-
----
-
 # JavaScript Age Calculator
 
 This is a simple web-based age calculator built using HTML, CSS, and JavaScript. It allows users to input their date of birth and calculates their age in years, months, and days.
